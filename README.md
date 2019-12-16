@@ -12,4 +12,5 @@ Anypoint Public Portal Link: https://anypoint.mulesoft.com/exchange/portals/trai
 File  Import  Anypoint Studio  Anypoint Studio project from File system 
 Then Browse the Project and complete the Import.
 4.	After importing Project to Run the project, right click on Project and run as Mule project. For this project mule runtime 4.2.2 used.
+5.  MQSQL DB is used in this API.
 
