@@ -56,13 +56,6 @@
             <classifier>mule-plugin</classifier>
         </dependency>
     	<dependency>
-            <groupId>59a14f75-4ce7-45a6-a7ec-9353a02bc38a</groupId>
-            <artifactId>ms3-contract-api</artifactId>
-            <version>1.0.2</version>
-            <classifier>raml</classifier>
-            <type>zip</type>
-        </dependency>
-    	<dependency>
             <groupId>org.mule.connectors</groupId>
             <artifactId>mule-db-connector</artifactId>
             <version>1.5.5</version>
@@ -72,6 +65,13 @@
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
             <version>8.0.18</version>
+        </dependency>
+    	<dependency>
+            <groupId>59a14f75-4ce7-45a6-a7ec-9353a02bc38a</groupId>
+            <artifactId>ms3-contract-api</artifactId>
+            <version>1.0.3</version>
+            <classifier>raml</classifier>
+            <type>zip</type>
         </dependency>
     </dependencies>
 
